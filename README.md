@@ -516,12 +516,8 @@ static inline int __normal_prio(struct task_struct *p)
 + [Linux CFS調度器vruntime 的計算](https://blog.csdn.net/weixin_45030965/article/details/128566265) 
 + [task_struct結構體的優先權參數詳解：prio、static_prio、normal_prio、rt_priority](https://blog.csdn.net/weixin_42314225/article/details/121708134)
 + [Linux CFS and task group](https://mechpen.github.io/posts/2020-04-27-cfs-group/index.html)
-+ [CFS 調度器資料結構篇](https://blog.csdn.net/longwang155069/article/details/104551212)
 + [Linux CFS 調度器：原理、設計與核心實作（2023）](https://arthurchiao.art/blog/linux-cfs-design-and-implementation-zh/)
-+ [Linux 核心設計: Scheduler(2): 概述 CFS Scheduler](https://hackmd.io/@RinHizakura/B18MhT00t)
 + [CFS對vruntime的迭代更新](https://blog.csdn.net/weixin_37948055/article/details/108062362)
-+ [Linux CFS調度器之喚醒搶佔--Linux進程的管理與調度(三十）](https://blog.csdn.net/weixin_39094034/article/details/113094836)
-+ [LKD讀書筆記：Linux的CFS調度器之Virtual Runtime](https://marvinsblog.net/post/2016-02-14-lkd-notes-cfv-virtual-runtime/)
 + [CFS調度器-源碼解析](http://www.wowotech.net/process_management/448.html)
-+ [Linux 核心設計: Scheduler(3): 深入剖析 CFS Scheduler](https://hackmd.io/@RinHizakura/BJ9m_qs-5)
+
 
